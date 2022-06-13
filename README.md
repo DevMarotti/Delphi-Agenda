@@ -1,4 +1,7 @@
+https://img.shields.io/github/languages/top/DevMarotti/Delphi-Agenda
 ![GitHub repo size](https://img.shields.io/github/repo-size/DevMarotti/Delphi-Agenda)
+[![GitHub](https://img.shields.io/github/license/DevMarotti/!%5BGitHub%20repo%20size%5D(https://img.shields.io/github/repo-size/DevMarotti/Delphi-Agenda))](https://img.shields.io/github/license/DevMarotti/Delphi-Agenda)
+
 
 # Delphi :: Agenda de Contatos
 
