@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/DevMarotti/Delphi-Agenda)
+![GitHub top language](https://img.shields.io/github/languages/top/DevMarotti/Delphi-Agenda?label=Delphi&logo=Delphi)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DevMarotti/Delphi-Agenda)
 ![GitHub](https://img.shields.io/github/license/DevMarotti/Delphi-Agenda)
 
